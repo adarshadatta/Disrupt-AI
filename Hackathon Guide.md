@@ -64,4 +64,4 @@ If you already have an idea, here are some great Azure resources to help you get
   - [Notebooks](https://docs.microsoft.com/en-us/azure/notebooks/)
   - [Databricks (Spark based Analytics Platform)](https://docs.microsoft.com/en-us/azure/azure-databricks/what-is-azure-databricks)
   - [Data Science Virtual Machines](https://docs.microsoft.com/en-us/azure/machine-learning/data-science-virtual-machine/overview)
-  - oo[Deep Learning Virtual Machines](https://docs.microsoft.com/en-us/azure/machine-learning/data-science-virtual-machine/deep-learning-dsvm-overview)
+  - [Deep Learning Virtual Machines](https://docs.microsoft.com/en-us/azure/machine-learning/data-science-virtual-machine/deep-learning-dsvm-overview)
