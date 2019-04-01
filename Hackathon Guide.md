@@ -37,7 +37,7 @@ We&#39;ll provide you with lots of great resources at the hackathon to help:
   - &quot;How to confidently build and deploy Machine Learning models in Azure &quot; – Hossein Sarshar
   - &quot;Future of Computing – using AI in real world&quot;  - Vinnie Saini
   - &quot;DevOps for Data Science&quot; – Padmalatha Raghunathan
-  - &quot;Leveraging the power of open data sets&quot; - Thinkdatawire
+
 - Mentors
 - Publicly available Open Dataets
 - Access to Azure
