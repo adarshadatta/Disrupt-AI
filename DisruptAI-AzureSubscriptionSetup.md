@@ -4,9 +4,7 @@ The Azure Environment Setup Guide
 
 Welcome to the Disrupt AI Hackathon!
 
-Team Number: \$1
 
-Code: \$2
 
 This guide will show you how to get your team access to your Azure credits for
 the hackathon
@@ -67,7 +65,7 @@ Log in to Azure subscription portal
 
 Activate your Azure team subscription
 
-1.  On the Join course page, enter your assigned conference code ( \$2) to
+1.  On the Join course page, enter your assigned conference code to
     activate your team Azure subscription
 
 2.  Select **Join**
