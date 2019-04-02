@@ -26,9 +26,9 @@ you in the hackathon:
 
 -   [US Governments Open Data: Data.gov](https://www.data.gov/)
 
--   [United Nations Data Catalog] (https://undatacatalog.org/home )
+-   [United Nations Data Catalog](https://undatacatalog.org/home )
 
--   [HealthGov Data] (https://healthdata.gov/)
+-   [HealthGov Data](https://healthdata.gov/)
 
 -   [Great IoT, Sensor and other dataset
     repositories](https://www.datasciencecentral.com/profiles/blogs/great-sensor-datasets-to-prepare-your-next-career-move-in-iot-int)

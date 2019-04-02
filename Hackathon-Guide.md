@@ -2,7 +2,7 @@
 
 # How do I prepare for the hackathon?
 
-It&#39;s all about project ideas and hackathon resources! Below are some suggestions to get you started with both.
+It's all about project ideas and hackathon resources! Below are some suggestions to get you started with both.
 
 ## Ideas
 
