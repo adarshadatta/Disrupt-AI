@@ -12,7 +12,7 @@ This repo has the following information:
 
 2. [Disrupt-AI-Azure-Subscription-Setup.md](Disrupt-AI-Azure-Subscription-Setup.md): This is a reference guide for you to activate your Azure environment
 
-3. [Hackathon-Guide.md](Hackathon-Guide.md): This is a generic guide for you to refer on how to ideate on what you wnat to build in case you are still not sure. Once you have the idea, there is a list of technical references that you can use to build on Azure. 
+3. [Hackathon-Guide.md](Hackathon-Guide.md): This is a generic guide for you to refer on how to ideate on what you want to build in case you are still not sure. Once you have the idea, there is a list of technical references that you can use to build on Azure. 
 
 4. [Technical-Reference-Guide-for-Azure.md](Technical-Reference-Guide-for-Azure.md): As the name suggests - this is a list of Azure documentation that you can use to build on Azure.
 
