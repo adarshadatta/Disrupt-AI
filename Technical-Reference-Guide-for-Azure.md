@@ -1,6 +1,6 @@
 ![](media/1c253bf5f390611493e677757d08f8d7.png)
 
-**Technical Reference Guide for Azure**
+# Technical Reference Guide for Azure
 
 If you already have an idea, here are some great Azure resources to help you get
 a head start:
