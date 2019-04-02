@@ -18,5 +18,7 @@ This repo has the following information:
 
 5. We also have 15 Telus IoT Devkits available for hacking if you want. Here is a link for you to refer to learn more about it and how you can use it: https://www.linkedin.com/feed/update/urn:li:activity:6516761199475068928 
       - Additional link for you to refer: https://github.com/TELUS-Emerging-IoT/TELUS_IoT_Getting_Started/blob/master/README.md
+      
+6. Since we are using Discord as a communication channel, please ensure you sign up and communicate over this tool. If you want a primer on discord and how to use it, you can refer to this beginner's tutorial: https://www.youtube.com/watch?v=zZ08Fbs5LpM 
 
 If you have any questions, please do reach out to devca@microsoft.com. 
