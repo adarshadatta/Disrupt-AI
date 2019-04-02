@@ -17,5 +17,6 @@ This repo has the following information:
 4. [Technical-Reference-Guide-for-Azure.md](Technical-Reference-Guide-for-Azure.md): As the name suggests - this is a list of Azure documentation that you can use to build on Azure.
 
 5. We also have 15 Telus IoT Devkits available for hacking if you want. Here is a link for you to refer to learn more about it and how you can use it: https://www.linkedin.com/feed/update/urn:li:activity:6516761199475068928 
+      - Additional link for you to refer: https://github.com/TELUS-Emerging-IoT/TELUS_IoT_Getting_Started/blob/master/README.md
 
 If you have any questions, please do reach out to devca@microsoft.com. 
