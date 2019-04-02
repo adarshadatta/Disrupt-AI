@@ -21,4 +21,4 @@ This repo has the following information:
       
 6. Since we are using Discord as a communication channel, please ensure you sign up and communicate over this tool. If you want a primer on discord and how to use it, you can refer to this beginner's tutorial: https://www.youtube.com/watch?v=zZ08Fbs5LpM 
 
-If you have any questions, please do reach out to devca@microsoft.com. 
+If you have any questions, please post on the  #microsoft-help channel in Discord. 
