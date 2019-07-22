@@ -2,7 +2,7 @@
 
 # DisruptAI
 
-Welcome to [DisruptAI](https://www.evokecanada.com/hackathon.html).
+Welcome to [DisruptAI](https://www.evokecanada.com/hackathon.html) Updated.
 
 Through this repo, we will let you know all the information that you may need to be susccessful during this hackathon. 
 
